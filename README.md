@@ -1,8 +1,6 @@
-Here's a detailed README for your GitHub repository, `buildsteel-providers-web-scraping`:
-
----
-
 # BuildSteel Providers Web Scraping
+
+![Screenshot 2024-08-25 at 01 32 34](https://github.com/user-attachments/assets/a456aec3-e74d-4b4f-9d54-b6b7d22cca41)
 
 This project is a web scraping tool designed to collect data on steel providers listed on specific websites. The script extracts important details such as company names, contact information, and services provided. This data can be utilized for market research, business development, or data analysis.
 
@@ -51,7 +49,3 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## Contact
 For any inquiries or issues, please contact [LinkedIn](https://www.linkedin.com/in/ahmet-dizdarr/).
-
----
-
-This README provides an overview of the project, instructions for setup and usage, and guidance for contributing. Feel free to modify it as needed!
